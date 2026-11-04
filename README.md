@@ -13,6 +13,9 @@ This repository collects practical GRC artifacts: risk quantification models, a 
 ### [Cyber Risk Quantification](./cyber-risk-quantification)
 A FAIR-based risk register modeling Annualized Loss Expectancy (ALE) across 10 scenarios for a hypothetical mid-size Kenyan fintech, with sourced loss magnitude anchors and an executive heat map.
 
+### [ISO 27001 to Kenya Data Protection Act Crosswalk](./iso27001-dpa-crosswalk)
+A cross-mapping of 46 ISO/IEC 27001:2022 Annex A controls to the Kenya Data Protection Act 2019, with 13 areas of the Act that Annex A does not cover and example audit evidence for each control.
+
 ### [Vulnbank Penetration Test](./vulnbank-pentest)
 A web application penetration test against a mobile lending and payments platform, identifying two critical access control vulnerabilities and one medium information disclosure finding. Completed as part of a group assessment.
 
